@@ -21,3 +21,8 @@ Ans: when an event happens on an element like click on a button, that event bubb
 4. What is Event Delegation in JavaScript? Why is it useful?
 
 Ans: Event delegation is a design pattern in JavaScript for handling events efficiently.
+
+
+5. What is the difference between preventDefault() and stopPropagation() methods?
+Ans: 1.preventDefault(): This method is used to cancel the default behavior attached with an event.
+    2. stopPropagation() : This method is used to control the flow of an event through the DOM tree. 
