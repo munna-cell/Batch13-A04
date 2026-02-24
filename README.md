@@ -15,5 +15,9 @@ Ans : to create and insert a new element into the DOM we need to first crete the
 
 3. What is Event Bubbling? And how does it work?
 
-Ans: when an event happens on an element like click on button, that event bubbles up to its parent elements, then it's grandParent. 
+Ans: when an event happens on an element like click on a button, that event bubbles up to its parent elements, then it's grandParent. 
 
+
+4. What is Event Delegation in JavaScript? Why is it useful?
+
+Ans: Event delegation is a design pattern in JavaScript for handling events efficiently.
